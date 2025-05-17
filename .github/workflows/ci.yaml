@@ -22,7 +22,7 @@ jobs:
 
     - name: Run main file
       run: |
-        python main.python
+        python main.py
 
     - name: Run Tests
       run: |
